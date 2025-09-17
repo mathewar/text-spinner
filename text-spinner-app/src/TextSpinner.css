@@ -1,0 +1,13 @@
+.phrase-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.phrase-text {
+  font-size: 1.2em;
+  color: #333;
+  font-style: italic;
+}
